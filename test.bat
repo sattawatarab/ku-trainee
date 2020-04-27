@@ -1,1 +1,4 @@
-C:\Users\sattawat.a\Anaconda3\envs\bb\python.exe C:\Users\sattawat.a\Desktop\Python\TMD\test.py %*
+@echo off
+copy C:\Users\sattawat.a\Desktop\Python\TMD\test.py   C:\Users\sattawat.a\Desktop\Python\TMD\test2.py
+exit
+pause

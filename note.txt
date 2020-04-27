@@ -1,3 +1,10 @@
+https://drive.google.com/file/d/1gaj-_bAhpoA3ubEO5vF3cevyTrhSZ9pe/view?usp=sharing
+
+Python
+โปรแกรม : anaconda
+https://www.anaconda.com/download/
+https://conda.io/docs/
+
 1==> install Python 3.6.7 |Anaconda
 
 3==> install requests

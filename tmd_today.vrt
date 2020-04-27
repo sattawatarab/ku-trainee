@@ -1,0 +1,5 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="tmd_today">
+        <SrcDataSource>C:\Users\sattawat.a\Desktop\Python\TMD\tmd_today.csv</SrcDataSource>
+    </OGRVRTLayer>
+</OGRVRTDataSource>

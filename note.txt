@@ -1,0 +1,9 @@
+1==> install Python 3.6.7 |Anaconda
+
+3==> install requests
+ 
+2==> go to C:\Users\sattawat.a\Anaconda3\envs
+
+3==> run bat file for testing
+
+4==> run bat file tmd
